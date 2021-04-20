@@ -31,7 +31,7 @@ there will be a file named
 Finally, you can import polyiou module to check if all the steps are sucessful.  
 #### Good Luck!.  
 ## Reference  
-[Rriginal files url](https://github.com/CAPTAIN-WHU/DOTA_devkit)  
+[Original files url](https://github.com/CAPTAIN-WHU/DOTA_devkit)  
 ## You can also see the related artiles from the below url:eyes:  
-[Related article]()
+[Related article](https://zhuanlan.zhihu.com/p/366345635)
 
